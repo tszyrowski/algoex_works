@@ -1,0 +1,3 @@
+line_profiler
+scalene
+py-spy
